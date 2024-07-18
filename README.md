@@ -1,6 +1,9 @@
 # Docker Tutorial
-## This is a note by hbx concerning the usage of Docker
-### Construction of Note
+
+>This is a note concerning the usage of Docker
+
+## Outline
+
 - Docker学习指南前言
 - Docker安装
 - Docker制作镜象
